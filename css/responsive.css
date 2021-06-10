@@ -112,7 +112,7 @@ footer {
 
   .titel {
     margin-top: 25%;
-  }
+  } 
 }
 
 
@@ -142,6 +142,7 @@ footer {
 }
 
 
+
 @media (max-width: 780px) {
   .tekst-about {
     padding-top: 30%;
@@ -159,9 +160,14 @@ footer {
     justify-content: center;
    }
 
+   .preloader {
+    margin-left: 0%;
+    margin-top: 0%;
+   }
+
    #status {
-      margin-left: -5%;
-      margin-top: -25%;
+      margin-left: -10%;
+      margin-top: -20%;
     }
 
     #flesje {
@@ -320,9 +326,11 @@ padding-bottom: 10%;
 }
 
 @media (max-width: 500px) {
+
+
     #status {
-      margin-left: -45%;
-      margin-top: 20%;
+      margin-left: -65%;
+      margin-top: -30%;
     }
 
     #flesje {
